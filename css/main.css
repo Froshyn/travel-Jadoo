@@ -605,9 +605,7 @@ body{
     padding-bottom: 96px;
     padding-top: 124px;
 }
-.subscribe{
 
-}
 
 .plusfon{
     position: absolute;
@@ -636,28 +634,69 @@ body{
     margin-left: 10px;
 }
 
-.formsSubscr{
-    position: absolute;
-}
 .eclipceleft{
     position: absolute;
-    left: 906;
-    top: 0;
+    left: -97px;
+    top: 44px;
 }
+
+.ecliseRight{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+}
+
+
+.formsSubscr{
+    position: absolute;
+    left: 160px;
+    bottom: 95px;
+}
+
+.forms{
+}
+
+.formsSubscr__iner{
+    display: flex;
+    flex-direction: column ;
+    align-items:center;
+}
+
 .subscribeContTitle{
     justify-content: center;
-    text-align: center;
     width: 860px;
     right: 250px;
     align-items:center;
-    flex-direction: column ;
     font-size: 33px;
     line-height: 164%;
     text-align: center;
     color: #5e6282;
-    /* margin-top: 80px; */
+    margin-bottom: 75px;
 }
 
+.subEmail{
+    border-radius: 10px;
+    width: 420px;
+    height: 68px;
+    font-size: 14px;
+    color: #39425d;
+    margin-right: 25px;
+    padding-left: 65px;
+    background-image: url('../img/emilicon.png');
+    background-repeat: no-repeat;
+    background-position-x: 30px;
+    background-position-y: 25px;
+}
+
+
+.subSubmit{
+    background:linear-gradient(180deg, #ff946d 0%, #ff7d68 100%);
+    font-size: 17px;
+    text-align: center;
+    color: #fff;
+    padding: 21px 51px;
+    border-radius:10px;
+}
 
 
 
