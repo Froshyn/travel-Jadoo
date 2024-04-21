@@ -569,6 +569,200 @@ body{
     color: #5e6282;
 }
 
+.EsyContent{
+    display: flex;
+    margin-top: 193px;
+    margin-bottom: 193px;
+
+}
+
+.leftContent{
+    flex-basis: 510px;
+    margin-right: 118px;
+}
+
+.subTitle__content{
+    font-size: 18px;
+    text-align: left;
+    color: #5e6282;
+    margin-bottom: 30px;
+}
+
+.title__content{
+    font-size: 50px;
+    text-transform: capitalize;
+    color: #14183e;
+    margin-bottom: 30px;
+    line-height: 125%;
+}
+
+
+.ferst__leftConten{
+    display: flex;
+    margin-bottom: 48px;
+    width: 395px;
+}
+
+.title__ferst{
+    font-family: poppins-bold;
+    font-size: 16px;
+    line-height: 125%;
+    color: #5e6282;
+}
+
+.choose{
+    padding-right: 12px;
+    width: 55px;
+    height: 48px;
+}
+
+.ferst__text{
+    font-family: poppins-regular;
+    font-size: 16px;
+    line-height: 125%;
+    color: #5e6282;
+}
+
+.rihtContent{
+    margin-top: 50px;
+}
+.cardGreece{
+    position: relative;
+}
+
+.fongreece{
+    position: absolute;
+    right: -166px;
+    top: -125px;
+    width: 345px;
+    height: 367px;
+    background-repeat:no-repeat;
+    z-index: -1;
+}
+
+.greeceimg{
+    padding-top: 20px;
+}
+
+.cardGreece__content{
+    display: flex;
+    z-index: 4;
+    flex-direction: column;
+    padding-left: 25px;
+    width: 370px;
+    height: 400px;
+    border-radius: 26px;
+    background-color: #fff;
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0), 0 8px 7px 0 rgba(0, 0, 0, 0.01), 0 20px 13px 0 rgba(0, 0, 0, 0.01), 0 39px 25px 0 rgba(0, 0, 0, 0.01), 0 65px 47px 0 rgba(0, 0, 0, 0.02), 0 100px 80px 0 rgba(0, 0, 0, 0.02);
+}
+
+.title__card{
+    font-size: 18px;
+    line-height: 125%;
+    letter-spacing: 0.01em;
+    color: #080809;
+    padding-top: 20px;
+    margin-bottom: 10px;
+}
+
+.text__greece{
+    font-size: 16px;
+    line-height: 125%;
+    letter-spacing: -0.01em;
+    color: #84829a;
+    margin-bottom: 20px;
+}
+
+.icon__cardGreece{
+    margin-bottom: 30px;
+}
+
+.list__greece{
+    padding-right: 20px;
+}
+
+.map__greece{
+    padding-right: 20px;
+}
+
+.iconBuild__info{
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.build__greece{
+    padding-right: 15px;
+}
+
+.build__text{
+    font-size: 16px;
+    line-height: 125%;
+    letter-spacing: -0.02em;
+    color: #84829a;
+    padding-right: 143px;
+}
+
+.rihtContent{
+    position: relative;
+}
+.cardItem__smail{
+    margin-bottom: 20px;
+}
+.cardSmail__rome{
+    position: absolute;
+    right: -80px;
+    top: 215px;
+    z-index: 5;
+}
+
+.cardItem__smail{
+    display: flex;
+    flex-direction: column ;
+    width: 263px;
+    height: 129px;
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0), 0 8px 7px 0 rgba(0, 0, 0, 0.01), 0 20px 13px 0 rgba(0, 0, 0, 0.01), 0 39px 25px 0 rgba(0, 0, 0, 0.01), 0 65px 47px 0 rgba(0, 0, 0, 0.02), 0 100px 80px 0 rgba(0, 0, 0, 0.02);
+    background: #fff;
+    border-radius:18px;
+}
+
+.romeCard__item{
+    padding: 18px 7px 0 21px;
+}
+
+.cardTop__info{
+    display: flex;
+}
+
+.text__complect{
+    font-size: 14px;
+    line-height: 125%;
+    letter-spacing: -0.06em;
+    color: #080809;
+    padding-left: 80px;
+}
+
+.line__comlect{
+    padding-left: 82px;
+}
+
+.procent{
+    color:#8a79df;
+}
+
+.text_ferst{
+    font-size: 14px;
+    line-height: 125%;
+    letter-spacing: -0.04em;
+    color: #84829a;
+    padding: 18px 0 6px 0;
+}
+
+.text__two{
+    font-size: 18px;
+    line-height: 125%;
+    letter-spacing: -0.01em;
+    color: #080809;
+}
 
 
 
